@@ -1,0 +1,57 @@
+header{
+background-color: #292828;
+text-align: center;
+color: #ffffff;
+font-family: cursive;
+
+width: 100%;
+top: 100px;
+
+}
+
+html {
+    background-color:#e6e7e9;
+}
+
+main {
+    position: relative;
+    background-color: #292828;
+    color: #ffffff;
+    text-align: center;
+    font-family: cursive;
+
+    
+}
+
+.vlast {
+display: flex;
+
+}
+
+.vlast img{
+width: 200px;
+}
+
+
+.crocks1 {
+    text-decoration: overline ;
+   color: darkgrey;
+}
+
+.crocks2 {
+    text-decoration: overline ;
+    color: darkgray;
+}
+
+
+
+.crocks3 {
+    text-decoration: overline ;
+color: darkgrey;
+}
+
+
+.crocks4 {
+    text-decoration: overline ;
+    color: darkgrey ;
+}
